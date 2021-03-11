@@ -3,7 +3,7 @@ this is the voice controllable scrolling made with javascript speech recognition
 
 1. ## `go up` OR `scroll up` => to scroll up
 2. ## `go down` OR `scroll down` => to scroll down
-3. ## `scroll to half` => scroll to half of the page
+3. ## `go to half` => scroll to half of the page
 4. ## `scroll to top` OR `go to top` OR `go top` => to go on top
 5. ## `scroll to bottom` OR `go to bottom` OR `go bottom` => to go to bottom
 
