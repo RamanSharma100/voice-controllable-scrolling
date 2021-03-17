@@ -12,14 +12,14 @@ Commands are as follows:-
 5. ## `scroll to bottom` OR `go to bottom` OR `go bottom` => to go to bottom
 
 Some custom commands:- <br/>
-6. `scroll to [number]%` OR `scroll to [number] percentage` => to scroll to [number] percent <br/>
-7. `scroll by [number]%` OR `scroll by [number] percentage` => to scroll to [number] percent <br/>
-8. `move by [number]%` OR `move by [number] percentage` => to scroll to [number] percent<br/>
-9. `scroll [number]%` OR `move [number] percentage` => to scroll tonumber <> percent <br/>
-10. `scroll to [number] pixel` OR `scroll to [number] pixels` => to scroll to [number] pixels<br/>
-11. `scroll by [number] pixel up/down` OR `scroll by [number] pixels up/down` => to scroll by [number] pixels up or down<br/>
-12. `move by [number] pixel` OR `move by [number] pixels` => to scroll to percent<br/>
-13. `scroll [number] pixel up/down` OR `move [number] pixels up/down` => to scroll by [number] pixel up or down<br/>
+6. ## `scroll to [number]%` OR `scroll to [number] percentage` => to scroll to [number] percent <br/>
+7. ## `scroll by [number]%` OR `scroll by [number] percentage` => to scroll to [number] percent <br/>
+8. ## `move by [number]%` OR `move by [number] percentage` => to scroll to [number] percent<br/>
+9. ## `scroll [number]%` OR `move [number] percentage` => to scroll tonumber <> percent <br/>
+10. ## `scroll to [number] pixel` OR `scroll to [number] pixels` => to scroll to [number] pixels<br/>
+11. ## `scroll by [number] pixel up/down` OR `scroll by [number] pixels up/down` => to scroll by [number] pixels up or down<br/>
+12. ## `move by [number] pixel` OR `move by [number] pixels` => to scroll to percent<br/>
+13. ## `scroll [number] pixel up/down` OR `move [number] pixels up/down` => to scroll by [number] pixel up or down<br/>
 
 
 I will add may more commands as well as custom commands in next updates.
