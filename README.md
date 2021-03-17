@@ -1,5 +1,9 @@
 # voice-controllable-scrolling
-this is the voice controllable scrolling made with javascript speech recognition api, which follows following commands:-
+this is the voice controllable scrolling made with javascript speech recognition api.
+
+It Follows 11 commands till now.
+
+Commands are as follows:-
 
 1. ## `go up` OR `scroll up` => to scroll up
 2. ## `go down` OR `scroll down` => to scroll down
