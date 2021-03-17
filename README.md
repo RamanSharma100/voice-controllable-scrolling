@@ -12,7 +12,7 @@ Commands are as follows:-
 5. ## `scroll to bottom` OR `go to bottom` OR `go bottom` => to go to bottom
 
 Some custom commands:-
-6. `scroll to [number]%` OR `scroll to [number] percentage` => to scroll to [number] percent
+6. `scroll to [number]%` OR `scroll to [number] percentage` => to scroll to [number] percent <br/>
 7. `scroll by [number]%` OR `scroll by [number] percentage` => to scroll to [number] percent
 8. `move by [number]%` OR `move by [number] percentage` => to scroll to [number] percent
 9. `scroll [number]%` OR `move [number] percentage` => to scroll tonumber <> percent
